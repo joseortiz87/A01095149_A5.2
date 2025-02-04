@@ -1,0 +1,7 @@
+==== Sales Report ====
+Total Sales Cost: $4,182.41
+Processing Time: 0.0000 seconds
+
+Errors Encountered:
+"Product 'other' not found."
+"Product 'mouse' not found."

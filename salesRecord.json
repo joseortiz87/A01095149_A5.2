@@ -1,0 +1,8 @@
+[
+    {"product": "laptop", "quantity": 2},
+    {"product": "airpods", "quantity": 5},
+    {"product": "keyboard", "quantity": 3},
+    {"product": "monitor", "quantity": 1},
+    {"product": "other", "quantity": 4},
+    {"product": "mouse", "quantity": "invalid"}
+]
